@@ -14,7 +14,7 @@
     "angular": "~1.4.1"
   },
   "devDependencies": {
-    "cropper": "~0.10.0",
+    "cropper": "2.2.1",
     "jquery": "~2.1.1",
     "mocha": "~1.21.4",
     "chai": "~1.9.2"
